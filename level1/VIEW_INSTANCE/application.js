@@ -1,0 +1,1 @@
+var viewInstace = new AppointmentView({model: appointment});
