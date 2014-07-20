@@ -1,0 +1,1 @@
+appointments.fetch({silent:true});
